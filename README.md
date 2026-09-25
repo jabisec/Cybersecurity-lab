@@ -95,10 +95,10 @@ My Kali Linux notes include:
 - [x] Basic Burp Suite
 - [x] Web Security Fundamentals
 - [x] CSRF Fundamentals
-- [ ] Advanced Web Security
-- [ ] Vulnerability Assessment
-- [ ] Penetration Testing
-- [ ] Advanced Network Security
+- [x] Advanced Web Security
+- [x] Vulnerability Assessment
+- [x] Penetration Testing
+- [x] Advanced Network Security
 
 ## 🧪 Lab Policy
 
